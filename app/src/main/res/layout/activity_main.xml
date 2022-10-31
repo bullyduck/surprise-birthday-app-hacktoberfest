@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center_horizontal"
-    android:padding="9dp"
+    android:padding="11dp"
     android:background="@drawable/img"
     tools:context=".MainActivity">
 
@@ -14,10 +14,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:padding="11dp"
+        android:padding="23dp"
         android:background="@drawable/rounded_main_tv"
         android:text="Happy Birthday!"
-        android:textSize="33sp"
+        android:textSize="30sp"
 
         />
 
@@ -35,7 +35,7 @@
 
             android:layout_marginStart="23dp"
             android:layout_marginTop="23dp"
-            android:text="Happy birthday 1"
+            android:text="Wish 1 here"
             android:textSize="23sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -47,7 +47,7 @@
 
             android:layout_marginTop="123dp"
             android:layout_marginEnd="23dp"
-            android:text="Happy birthday 2"
+            android:text="Wish 2 here"
             android:textSize="23sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -60,7 +60,7 @@
 
             android:layout_marginStart="23dp"
             android:layout_marginTop="123dp"
-            android:text="Happy birthday 3"
+            android:text="Wish 3 here"
             android:textSize="23sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tv1" />
@@ -73,7 +73,7 @@
 
             android:layout_marginTop="123dp"
             android:layout_marginEnd="23dp"
-            android:text="Happy birthday 4"
+            android:text="Wish 4 here"
             android:textSize="23sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tv2" />
@@ -86,7 +86,7 @@
 
             android:layout_marginStart="23dp"
             android:layout_marginTop="123dp"
-            android:text="Happy birthday 5"
+            android:text="Wish 5 here"
             android:textSize="23sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tv3" />
@@ -99,7 +99,7 @@
 
             android:layout_marginTop="123dp"
             android:layout_marginEnd="23dp"
-            android:text="Happy birthday 5"
+            android:text="Wish 6 here"
             android:textSize="23sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tv4" />
@@ -112,7 +112,7 @@
 
             android:layout_marginStart="23dp"
             android:layout_marginTop="123dp"
-            android:text="Happy birthday 5"
+            android:text="Wish 7 here"
             android:textSize="23sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tv5" />
