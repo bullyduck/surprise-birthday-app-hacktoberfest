@@ -11,8 +11,8 @@ STAR [THIS Repository](https://github.com/bullyduck/surprise-birthday-app) if yo
 <img height="323" alt="App Screenshot" src="https://user-images.githubusercontent.com/114722500/199111812-a759eb00-2905-4722-8ac3-9c4ff5282907.jpg">
 
 ### TODO
-1. -[ ] Add UI elements for main_activity (#8)
-2. -[ ] Remove Action bar (#10)
+1. -[x] Add UI elements for main_activity (#8)
+2. -[x] Remove Action bar (#10)
 3. -[ ] Add Splash Screen (#15)
 4. -[ ] Make the app functional (Upcoming)
 5. -[ ] To accept wishes from different languagees (Upcoming)
