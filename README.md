@@ -44,7 +44,7 @@ This repository is a beginner friendly repository for contributers who are just 
 
 ### Step - 1:
 
-Create a GitHub account, if you don't already have one.
+Create a [GitHub account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home), if you don't already have one.
 
 ### Step - 2:
 
