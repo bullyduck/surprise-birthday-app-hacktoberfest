@@ -60,6 +60,8 @@ Here's something beginner-friendly for you:
 
 - https://www.firsttimersonly.com/
 - https://github.com/mungell/awesome-for-beginners
+- https://blog.shahednasser.com/tips-for-beginners-to-open-source
+- https://github.com/EbookFoundation/free-programming-books/
 
 ### Step - 4:
 
@@ -74,6 +76,8 @@ Submit PRs: Try and submit at least **_4 PRs_** and wait for it to be verified. 
 - Pull requests must be approved by a maintainer of the repository/project to count.
 - If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
 - This year, the first **40,000** participants who successfully complete the challenge will be eligible to receive a prize.
+- Don't assume every pull request you make will be merged before Hacktoberfest is over. Try to do more than 4 if you can!
+- Make valuable contributions
 
 For your PR to count it must be:
 
