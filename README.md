@@ -6,6 +6,11 @@ The app will display random wishes according to a random function and the messag
 
 STAR [THIS Repository](https://github.com/bullyduck/surprise-birthday-app) if you find it interesting. 
 
+## App Screenshots
+
+<img height="323" alt="App Screenshot" src="https://user-images.githubusercontent.com/114722500/199111812-a759eb00-2905-4722-8ac3-9c4ff5282907.jpg">
+
+
 ## Hacktoberfest 2022
 
 <img width="1181" alt="Screenshot-2022-09-27-at-08 03 21" src="https://user-images.githubusercontent.com/44274982/199085190-0281ae0d-9a97-4b2e-8ba2-fc1268bfa137.png">
