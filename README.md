@@ -36,8 +36,6 @@ This repository is a beginner friendly repository for contributers who are just 
     </a>
 </h3>
 
-![Snake animation](https://github.com/ritikbanger/ritikbanger/blob/snake/snake.svg)
-
 ## Event details :
 
 - Hacktoberfest is a **month-long** challenge. It happens every year in the month of October.
