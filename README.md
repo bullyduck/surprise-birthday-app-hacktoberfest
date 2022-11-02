@@ -16,6 +16,9 @@ STAR [THIS Repository](https://github.com/bullyduck/surprise-birthday-app) if yo
 3. -[ ] Add Splash Screen (#15)
 4. -[ ] Make the app functional (Upcoming)
 5. -[ ] To accept wishes from different languagees (Upcoming)
+
+## NOTE :- Hacktoberfest 2022 has finally ended, thank you for your valuable contributions.
+
 ## Hacktoberfest 2022
 
 <img width="1181" alt="Screenshot-2022-09-27-at-08 03 21" src="https://user-images.githubusercontent.com/44274982/199085190-0281ae0d-9a97-4b2e-8ba2-fc1268bfa137.png">
