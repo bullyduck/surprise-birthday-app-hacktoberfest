@@ -10,6 +10,14 @@ STAR [THIS Repository](https://github.com/bullyduck/surprise-birthday-app) if yo
 
 <img height="323" alt="App Screenshot" src="https://user-images.githubusercontent.com/114722500/199111812-a759eb00-2905-4722-8ac3-9c4ff5282907.jpg">
 
+### TODO
+1. -[x] Add UI elements for main_activity (#8)
+2. -[x] Remove Action bar (#10)
+3. -[ ] Add Splash Screen (#15)
+4. -[ ] Make the app functional (Upcoming)
+5. -[ ] To accept wishes from different languagees (Upcoming)
+
+## NOTE :- Hacktoberfest 2022 has finally ended, thank you for your valuable contributions.
 
 ## Hacktoberfest 2022
 
@@ -30,8 +38,6 @@ This repository is a beginner friendly repository for contributers who are just 
         Link To HacktoberFest 2022
     </a>
 </h3>
-
-![Snake animation](https://github.com/ritikbanger/ritikbanger/blob/snake/snake.svg)
 
 ## Event details :
 
