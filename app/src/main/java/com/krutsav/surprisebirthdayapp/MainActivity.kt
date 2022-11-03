@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"Click on screen",Toast.LENGTH_LONG).show()
 
 
+
     }
 
     fun onLayoutClick(view: View) {
