@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
 //        TODO: 1. Improve placement of text views
 //        TODO: 2. Make background change color, to create text change feeling
 //        TODO: 3. Add app icon
+//        TODO: REMEMBER - Next time don't push pull in hurry
     }
 
     fun onLayoutClick(view: View) {
