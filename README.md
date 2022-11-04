@@ -8,7 +8,9 @@ STAR [THIS Repository](https://github.com/bullyduck/surprise-birthday-app) if yo
 
 ## App Screenshots
 
-<img height="323" alt="App Screenshot" src="https://user-images.githubusercontent.com/114722500/199111812-a759eb00-2905-4722-8ac3-9c4ff5282907.jpg">
+<img height="123" alt="App Screenshot" src="https://user-images.githubusercontent.com/114722500/199111812-a759eb00-2905-4722-8ac3-9c4ff5282907.jpg">
+Working v1
+<img height="123" alt="App Screenshot v1 (Randomly generated wish)" src="https://user-images.githubusercontent.com/114722500/200045846-130f5535-38aa-46a8-9109-6518ad3d7d29.jpeg">
 
 ### TODO
 1. -[x] Add UI elements for main_activity (#8)
