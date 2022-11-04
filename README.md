@@ -14,7 +14,7 @@ STAR [THIS Repository](https://github.com/bullyduck/surprise-birthday-app) if yo
 1. -[x] Add UI elements for main_activity (#8)
 2. -[x] Remove Action bar (#10)
 3. -[ ] Add Splash Screen (#15)
-4. -[ ] Make the app functional (Upcoming)
+4. -[x] Make the app functional (Added in 'Working app v1')
 5. -[ ] To accept wishes from different languagees (Upcoming)
 
 ## NOTE :- Hacktoberfest 2022 has finally ended, thank you for your valuable contributions.
@@ -28,8 +28,6 @@ It's [Hacktoberfest month](https://hacktoberfest.com)! 🥳
 Thanks so much for participating with us this year!
 This repository is a beginner friendly repository for contributers who are just starting their coding and contributing journey and want to take part in Hacktoberfest.
 
-
-![image](https://github.com/ritikbanger/Hacktoberfest2022-DSA/blob/main/hacktoberfest.png)
 
 <h1 align="center"> Hacktoberfest 2022 </h1>
 
